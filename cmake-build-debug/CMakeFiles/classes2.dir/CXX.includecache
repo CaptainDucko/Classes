@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jules/CLionProjects/classes2/words.cpp
+words.h
+C:/Users/jules/CLionProjects/classes2/words.h
+
+C:/Users/jules/CLionProjects/classes2/words.h
+string
+-
+
